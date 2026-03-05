@@ -1,0 +1,11 @@
+numpy
+pandas
+Pillow
+tqdm
+ftfy
+regex
+scikit-learn
+timm
+
+git+https://github.com/aengusl/spawrious.git
+git+https://github.com/openai/CLIP.git
