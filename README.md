@@ -1,7 +1,6 @@
 # SupER (Repository Preview)
 
-This repository is a preview codebase for our CPAL 2026 paper [Superclass-Guided Representation Disentanglement for Spurious Correlation Mitigation](https://arxiv.org/pdf/2508.08570).  
-A fully polished and final release of the code is coming soon.
+This repository is a preview codebase for our CPAL 2026 paper [Superclass-Guided Representation Disentanglement for Spurious Correlation Mitigation](https://arxiv.org/pdf/2508.08570). A fully polished and final release of the code is coming soon.
 
 ---
 
@@ -39,7 +38,7 @@ For convenience, you may also download the packaged datasets from [here](https:/
 
 ## Run
 
-Run commands from the **repo root**:
+Run commands from the repo root:
 
 ### Waterbirds
 ```bash
