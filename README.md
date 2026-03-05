@@ -1,4 +1,3 @@
-```markdown
 # SupER (Repository Preview)
 
 This repository is a preview codebase for our CPAL 2026 paper [Superclass-Guided Representation Disentanglement for Spurious Correlation Mitigation](https://arxiv.org/pdf/2508.08570).  
