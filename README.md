@@ -84,5 +84,3 @@ These files will appear under:
 ```text
 ./outputs/
 ```
-
-We also provide one randomly-run checkpoint for each dataset in the Release folder [here](https://drive.google.com/drive/folders/1avkaSP9jMH5sj8RySXFlDvkpjIWD-HAp?usp=sharing).
